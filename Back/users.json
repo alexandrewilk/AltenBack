@@ -1,0 +1,26 @@
+[
+  {
+    "Username": "string",
+    "FirstName": "string",
+    "Email": "string",
+    "Password": "string"
+  },
+  {
+    "Username": "string",
+    "FirstName": "string",
+    "Email": "string2",
+    "Password": "string"
+  },
+  {
+    "Username": "string",
+    "FirstName": "string",
+    "Email": "string3",
+    "Password": "string"
+  },
+  {
+    "Username": "string",
+    "FirstName": "string",
+    "Email": "admin@admin",
+    "Password": "string"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 0,
+    "Code": "string",
+    "Name": "string",
+    "Description": "string",
+    "Image": "string",
+    "Category": "string",
+    "Price": 0.0,
+    "Quantity": 0,
+    "InternalReference": "string",
+    "ShellId": 0,
+    "InventoryStatus": 0,
+    "Rating": 0,
+    "CreatedAt": "2025-09-09T22:09:11.3109941+02:00",
+    "UpdatedAt": "2025-09-09T20:06:44.782Z"
+  }
+]
