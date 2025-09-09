@@ -1,0 +1,93 @@
+## Build results
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS-generated files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Entity Framework
+Migrations/
+
+## dotnet secrets
+secrets.json
+
+## .NET Core CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Visual Studio Code
+.vscode/
+.vscode/*
+
+## Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.pdb
+*.cache
+*.tmp
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+## Azure
+*.azurepubxml
+*.publishsettings
+
+## Coverage tools
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.lcov
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## IIS
+*.vspscc
+*.vssscc
+
+## NPM/Yarn (if using frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Environment files
+.env
+*.env.*
+.env.local
+
+# JetBrains Rider
+.idea/
+
+# macOS Finder
+.DS_Store
+
+# Windows Explorer thumbs
+Thumbs.db
